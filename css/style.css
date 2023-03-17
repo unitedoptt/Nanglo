@@ -3311,7 +3311,7 @@ new menu
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
-  border: dotted 2px rgb(243, 156, 18);
+  border:  dotted 2px rgb(3 56 75);  
   border-radius: 5px;
   margin-bottom: 30px;
 }
